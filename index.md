@@ -21,3 +21,8 @@ Initialized empty Git repository in /Users/skills/Project/recipe-repository/.git
 ```javascript
 var myVar = "Hello, World!";
 ```
+#### Step 4 : Make a task list
+
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world

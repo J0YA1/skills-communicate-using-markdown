@@ -7,3 +7,17 @@
 
 #### Step 2 : The image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+#### Step 3 :- Add the a code example:
+##### Example 1:
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Project/recipe-repository/.git/
+
+```
+##### Example 2:
+
+```javascript
+var myVar = "Hello, World!";
+```
